@@ -1,0 +1,5 @@
+1~m~If you want to deploy a template, set the correct order of each command \n (example:  V W X Y [template name] Z [yaml file]) A. Create B. gcloud C. --config D. Deployment-manager E. Deployments
+2~m~How to set a zone in the environment?, set the correct order of each command: \n (example: W X Y Z europe-west1-c ) A. gcloud B. Config C. Set D. Compute/zone E. europe-west1-c
+3~m~How to set a region in the environment? , set the correct order of each command: \n (example: W X Y Z europe-west1-c ) A. gcloud B. Config C. Set D. Compute/region E. europe-west1
+4~e~How to validate default configuration? , set the correct order of each command: \n (example: X Y Z ) A. gcloud B. Config C. List
+5~e~How to list instances? , set the correct order of each command: \n (example: X Y Z list) A. gcloud B. Compute C. Instances

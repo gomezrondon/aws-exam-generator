@@ -1,0 +1,7 @@
+1~e~What is the fundamental unit of computing in cloud computing? A. Physical server B. VM C. Block D. Subnet
+2~e~If you use a cluster that is managed by a cloud provider, which of these will be managed for you by the cloud provider? A. Monitoring B. Networking C. Some security management tasks D. All of the above
+3~e~You need serverless computing for file processing and running the backend of a website; which two products can you choose from Google Cloud Platform? A. Kubernetes Engine and Compute Engine B. App Engine and Cloud Functions C. Cloud Functions and Compute Engine D. Cloud Functions and Kubernetes Engine
+4~e~You have been asked to design a storage system for a web application that allows users to upload large data files to be analyzed by a business intelligence workflow. The files should be stored in a high-availability storage system. File system functionality is not required. Which storage system in Google Cloud Platform should be used? A. Block storage B. Object storage C. Cache D. Network File System
+5~e~All block storage systems use what block size? A. 4KB B. 8KB C. 16KB D. Block size can vary
+
+6~e~You ONLY want to manage Applications and Data. Which type of Cloud Computing model should you use? A. On-premises B. Infrastructure as a Service (laaS) C. Software as a Service (SaaS) D. Platform as a Service (PaaS)
