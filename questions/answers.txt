@@ -20,3 +20,31 @@
 11~B~The Shared Responsibility Model
 
 12~C~Hybrid Cloud
+--1--
+13~D~Install and run AWS CLI on one of the non-GUI Linux-based machines, in a shell environment such as bash. The cloud solutions architect will be able to access ALL services just as they can also be accessed from a Windows-based machine.
+
+14~B C ~Are the answer
+
+15~B C D ~Are the answers
+
+16~C~Create temporary access roles using IAM
+
+17~A~AWS Artifact
+
+18~B C ~Are the answers
+
+19~C~AWS Name Servers around the world update thelr cache in tanclem, it takes between 24 hours to 48 hours for the process to complete.
+
+20~A C D ~Are the answers
+
+21~A ~On-demand
+
+22~B~DynamobB has a flexible data model and single-digit millisecond latency
+
+23~A~Aws organizations
+
+24~B~AWws Elastic Load Balancer
+
+25~C~AWS IAM Roles
+
+26~A~34 seconds
