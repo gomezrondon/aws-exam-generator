@@ -236,10 +236,8 @@ class GenerateQuestionService(val levelsOfDifficulty:List<List<questionContext>>
             LOG.info("$question \n")
             LOG.info("Your Response: ($response) \n")
 
+            responses.add(response)
 
-            if (response != null) {
-                responses.add(response)
-            }
             println("")
             LOG.info("\n")
         }

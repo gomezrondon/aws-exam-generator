@@ -1,0 +1,2 @@
+gradle clean build -x test
+java -jar build/libs/aws-exam-generator-0.0.1-SNAPSHOT.jar

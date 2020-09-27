@@ -9,10 +9,7 @@ import org.springframework.context.annotation.Bean
 @Configuration
 class ConfigApplication {
 
-    @Bean
-     fun bootCLRTest(): CommandLineRunner? {
-        return CommandLineRunner { args: Array<String?>? -> println("This is TEst!") }
-    }
+
 
     @Bean
     fun getLevelOfDifficulty(): List<List<questionContext>> {

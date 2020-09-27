@@ -11,10 +11,14 @@ import java.io.File
  * This script helps assemble the questions and answers.
  * depends on: dsl-question-builder
  */
+
+//*** projecto will not run if there is another main
+/*
 fun main() {
     mainProcess()
 
 }
+*/
 
 private fun mainProcess(prfijo:String="") {
 
