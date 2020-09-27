@@ -1,7 +1,22 @@
-1~ B~ The basic unit for purchasing computing resources is the virtual machine (VM). A physical server underlies VMs, but the resources of a physical server are allocated to VMs. Blocks and subnets are not relevant to the fundamental unit of computing.
-2~ D~ When using managed clusters, the cloud provider will monitor the health of nodes in the cluster, set up networking between nodes in the cluster, and configure firewall and other security controls.
-3~ B~ App Engine is a serverless platform for running applications, while Cloud Functions is a service for executing short-running functions in response to events. Kubernetes Engine is a managed cluster service, and both Kubernetes Engine and Compute Engine require you to configure servers.
-4~ B~ Object storage, like Cloud Storage, provides redundantly stored objects without limits on the amount of data you can store, which makes option B correct. Since file system functionality is not required, option D is not a good option. Block storage could be used, but you would have to manage your own replication to ensure high availability. Caches are transient, in-memory storage and are not high-availability, persistent storage systems.
-5~ D~ Block sizes in a block storage system can vary; therefore, option D is the correct answer. Block size is established when a file system is created. 4KB block sizes are commonly used in Linux.
+1~D~Platform as a Service (PaaS)
+2~B~Pay-as-you-go pricing
 
-6~D~Platform as a Service (PaaS)
+3~B~Availability Zones
+
+4~C~Dedicated Support Agent to help you deploy applications
+
+5~C~Compute, Storage, and Data transfer out of the AWS Cloud
+
+6~B~Train your employees less
+
+7~C~Fun analytics on stolen content
+
+8~C~Two or more Availability Zones
+
+9~B~Iam
+
+10~C~On-demand availabilty of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user
+
+11~B~The Shared Responsibility Model
+
+12~C~Hybrid Cloud
