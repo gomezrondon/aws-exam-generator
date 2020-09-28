@@ -48,3 +48,15 @@
 25~C~AWS IAM Roles
 
 26~A~34 seconds
+
+27~B~AWS VPC
+
+28~A~Amazon Glacier
+
+29~A E~Are the answers
+
+30~A ~Aws cost Explorer
+
+31~B~Amazon is responsible for the RDS instances, the operating system updates, patching of software and its maintenance
+
+32~D~Amazon Route 53
